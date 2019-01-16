@@ -19,7 +19,7 @@ public interface MyDataSourceObject {
 
 	public static DataSource getMySQLDataSource() {
 		MysqlDataSource mySQLDS = null;
-		LOG.info("this is from getMySQLDataSource() " );
+		LOG.info("this is from getMySQLDataSource() ");
 
 		try (FileInputStream fis = new FileInputStream(new File(pathname))) {
 			prop.load(fis);
