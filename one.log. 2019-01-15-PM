@@ -1,0 +1,36 @@
+2019-01-15 20:17:45 INFO  Demo:24 - Drivers installed...
+2019-01-15 20:17:45 INFO  Demo:27 - Connection established
+2019-01-15 20:17:45 ERROR Demo:42 - Exception occured...
+2019-01-15 20:19:23 INFO  Demo:24 - Drivers installed...
+2019-01-15 20:19:23 INFO  Demo:27 - Connection established
+2019-01-15 20:29:23 INFO  Demo:24 - Drivers installed...
+2019-01-15 20:29:23 INFO  Demo:27 - Connection established
+2019-01-15 20:35:32 INFO  Demo:23 - Drivers installed...
+2019-01-15 20:35:32 INFO  Demo:25 - Connection established
+2019-01-15 20:35:33 INFO  Demo:37 - Addition of two number from storedprocedure...0
+2019-01-15 20:41:44 INFO  Demo:23 - Drivers installed...
+2019-01-15 20:41:44 INFO  Demo:25 - Connection established
+2019-01-15 20:41:44 ERROR Demo:41 - Exception occured...java.sql.SQLException: Parameter 1 is not registered as an output parameter
+2019-01-15 20:45:13 INFO  Demo:23 - Drivers installed...
+2019-01-15 20:45:14 INFO  Demo:25 - Connection established
+2019-01-15 20:45:14 ERROR Demo:41 - Exception occured...java.sql.SQLException: Parameter 1 is not registered as an output parameter
+2019-01-15 20:46:11 INFO  Demo:23 - Drivers installed...
+2019-01-15 20:46:12 INFO  Demo:25 - Connection established
+2019-01-15 20:46:12 INFO  Demo:38 - username ...one
+email...null
+password...null
+2019-01-15 20:46:35 INFO  Demo:23 - Drivers installed...
+2019-01-15 20:46:35 INFO  Demo:25 - Connection established
+2019-01-15 20:46:36 INFO  Demo:38 - username ...one
+email...null
+password...null
+2019-01-15 21:00:14 INFO  Demo:23 - Drivers installed...
+2019-01-15 21:00:14 INFO  Demo:25 - Connection established
+2019-01-15 21:00:14 INFO  Demo:38 - username ...1024
+email...null
+password...null
+2019-01-15 23:08:26 INFO  Demo:23 - Drivers installed...
+2019-01-15 23:08:27 INFO  Demo:25 - Connection established
+2019-01-15 23:08:27 INFO  Demo:38 - username ...1024
+email...null
+password...null
